@@ -30,7 +30,7 @@ header {
   padding-top: 10px;
   padding-bottom: 10px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: transparent url(../images/me-portrait.jpg) 0 0 no-repeat;
+  background: transparent url(../images/header-bg.jpg) 0 0 no-repeat;
   border-bottom: solid 1px #275da1;
 }
 
@@ -89,6 +89,7 @@ header h3 {
 
 aside#sidebar {
   position: fixed;
+  top: 150px;
   float: left;
   width: 200px;
   min-height: 504px;
